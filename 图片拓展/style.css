@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: center;
+    align-items: center;
+}
+.container {
+    width: 50vw;
+    height: 80vw;
+    display: flex;
+    background-repeat: no-repeat;
+    overflow: hidden;
+}
